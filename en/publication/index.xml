@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on WhOOPs&#39;s blog</title>
-    <link>http://example.org/en/publication/</link>
+    <link>https://iam-whoops.github.io/whoops.github.io/en/publication/</link>
     <description>Recent content in Publications on WhOOPs&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iam-whoops.github.io/whoops.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>article</title>
-        <link>http://example.org/en/publication/article/</link>
+        <link>https://iam-whoops.github.io/whoops.github.io/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>nguyenthel1412@gmail.com (WhOOPs)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/article/</guid>
+        <guid>https://iam-whoops.github.io/whoops.github.io/en/publication/article/</guid>
         <description></description>
         
         <dc:creator>WhOOPs</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>book</title>
-        <link>http://example.org/en/publication/book/</link>
+        <link>https://iam-whoops.github.io/whoops.github.io/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>nguyenthel1412@gmail.com (WhOOPs)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/book/</guid>
+        <guid>https://iam-whoops.github.io/whoops.github.io/en/publication/book/</guid>
         <description></description>
         
         <dc:creator>WhOOPs</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>misc</title>
-        <link>http://example.org/en/publication/misc/</link>
+        <link>https://iam-whoops.github.io/whoops.github.io/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>nguyenthel1412@gmail.com (WhOOPs)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>http://example.org/en/publication/misc/</guid>
+        <guid>https://iam-whoops.github.io/whoops.github.io/en/publication/misc/</guid>
         <description></description>
         
         <dc:creator>WhOOPs</dc:creator>

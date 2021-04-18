@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on WhOOPs&#39;s blog</title>
-    <link>http://example.org/en/tags/index/</link>
+    <link>https://iam-whoops.github.io/whoops.github.io/en/tags/index/</link>
     <description>Recent content in index on WhOOPs&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>nguyenthel1412@gmail.com (WhOOPs)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iam-whoops.github.io/whoops.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/en/posts/</link>
+        <link>https://iam-whoops.github.io/whoops.github.io/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>nguyenthel1412@gmail.com (WhOOPs)</author>
         
-        <guid>http://example.org/en/posts/</guid>
+        <guid>https://iam-whoops.github.io/whoops.github.io/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

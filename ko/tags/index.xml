@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Hugo Zzo Theme</title>
-    <link>http://example.org/ko/tags/</link>
+    <link>https://iam-whoops.github.io/whoops.github.io/ko/tags/</link>
     <description>Recent content in Tags on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,17 +15,17 @@
     <webMaster>nguyenthel1412@gmail.com (WhOOPs)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/ko/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://iam-whoops.github.io/whoops.github.io/ko/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>index</title>
-        <link>http://example.org/ko/tags/index/</link>
+        <link>https://iam-whoops.github.io/whoops.github.io/ko/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>nguyenthel1412@gmail.com (WhOOPs)</author>
         
-        <guid>http://example.org/ko/tags/index/</guid>
+        <guid>https://iam-whoops.github.io/whoops.github.io/ko/tags/index/</guid>
         <description></description>
         
         <dc:creator>WhOOPs</dc:creator>
